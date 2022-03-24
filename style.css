@@ -1,0 +1,76 @@
+
+.box {
+  color: white;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  width: 19%;
+}
+
+.Menu {
+  width: 79%;
+  text-align: right;
+}
+
+.topHeader {
+  display: flex;
+  flex-direction: row;
+  width: 36%;
+  align-self: center;
+}
+
+.header {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  letter-spacing: 0.3700000047683716px;
+  text-align: left;
+  width: 36%;
+  align-self: center;
+}
+
+p {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  width: 36%;
+  align-self: center;
+}
+
+.contect {
+  width: 36%;
+  align-self: center;
+  text-align: left;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #7f8cff;
+  flex: none;
+}
+
+.social-icon {
+  width: 36%;
+  align-self: center;
+}
